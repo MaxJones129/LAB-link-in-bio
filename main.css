@@ -1,0 +1,50 @@
+/* .body {
+  background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+} WHY WONT THIS WOOOOOOOORK!*/
+
+.img {
+  display: flex;
+  justify-content: center;
+}
+
+.headertext {
+  display: flex;
+  justify-content: center;
+}
+
+.headertext2 {
+  display: flex;
+  justify-content: center;
+}
+
+.symbols {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  
+}
+
+.headerimg {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  border-radius: 80%;
+  /* width: 20px;
+  height: 20px; */
+}
+
+/* .twitter {
+  padding-right: 20px;
+}
+
+.insta {
+  padding-right: 20px;
+}
+
+.yt {
+  padding-right: 20px;
+} */
+
+/* .linkedin {
+  
+} */
